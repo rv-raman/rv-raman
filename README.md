@@ -1,7 +1,7 @@
 ### Hi there I am Venkata Raman👋
 
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...Web Develpment and Machine learning
 - 🌱 I’m currently learning ...Django
