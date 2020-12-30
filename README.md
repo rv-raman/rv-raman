@@ -14,6 +14,6 @@
 - 👯 I’m looking to collaborate on ...Web development
 - 🤔 I’m looking for help with ...Django
 - 💬 Ask me about ...Web Development
-- 📫 How to reach me: ...[Linkedin](https://www.linkedin.com/in/venkata-raman/) [Twitter](https://twitter.com/rvenky_raman)
+- 📫 How to reach me: ...[Linkedin](https://www.linkedin.com/in/venkata-raman/) or [Twitter](https://twitter.com/rvenky_raman)
 - 😄 Pronouns: ...He/Him
 
